@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shubham Deswal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding and Programming from WhiteHat Jr
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me by mailing at ashaddeswal15@gmail.com
 
 <!---
 Shubham814/Shubham814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
